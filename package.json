@@ -9,7 +9,8 @@
     "front:dev": "npm run start -w react-frontend",
     "back:dev": "npm run dev -w node-backend",
 
-    "start": "npm run start -w node-backend"
+    "build": "npm run clean; npm install; npm run front:build -- -l;",
+    "start": "cd ./back-end; node app"
   },
   "repository": {
     "type": "git",
