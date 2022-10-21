@@ -1,0 +1,209 @@
+id,city,date,toss_winner,toss_decision,umpire1,umpire2,venue,winner,team1,team2,player_of_match,result_margin,result,eliminator,method,neutral_venue
+1304047,Wankhede,2022-03-25,Kolkata Knight Riders,field,Anil Chaudhary,Nitin Menon,Wankhede Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Umesh Yadav,6,wickets,N,,0
+1304048,Brabourne,2022-03-26,Delhi Capitals,field,Rod Tucker,Saiyed Khalid,Brabourne Stadium,Delhi Capitals,Delhi Capitals,Mumbai Indians,Kuldeep Yadav,4,wickets,N,,0
+1304049,DY Patil,2022-03-26,Punjab Kings,field,Nitin Menon,Yeshwant Barde,Dr DY Patil Sports Academy,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,Odean Smith,5,wickets,N,,0
+1304050,Wankhede,2022-03-27,Gujarat Titans,field,Pashchim Pathak,Virender Sharma,Wankhede Stadium,Gujarat Titans,Gujarat Titans,Lucknow Super Giants,Mohammed Shami,5,wickets,N,,0
+1304051,Pune,2022-03-28,Sunrisers Hyderabad,field,Bruce Oxenford,Ulhas Gandhe,Maharashtra Cricket Association Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,61,runs,N,,0
+1304052,DY Patil,2022-03-29,Royal Challengers Bangalore,field,Jayaraman Madanagopal,Navdeep Singh,Dr DY Patil Sports Academy,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Wanindu Hasaranga de Silva,3,wickets,N,,0
+1304054,Wankhede,2022-03-31,Kolkata Knight Riders,field,Anil Chaudhary,Saiyed Khalid,Wankhede Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Umesh Yadav,6,wickets,N,,0
+1304055,DY Patil,2022-04-01,Mumbai Indians,field,Nitin Menon,Pashchim Pathak,Dr DY Patil Sports Academy,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Jos Buttler,23,runs,N,,0
+1304056,Pune,2022-04-01,Delhi Capitals,field,KN Ananthapadmanabhan,Ulhas Gandhe,Maharashtra Cricket Association Stadium,Gujarat Titans,Gujarat Titans,Delhi Capitals,Lockie Ferguson,14,runs,N,,0
+1304057,Brabourne,2022-04-02,Chennai Super Kings,field,Rod Tucker,Yeshwant Barde,Brabourne Stadium,Punjab Kings,Punjab Kings,Chennai Super Kings,Liam Livingstone,54,runs,N,,0
+1304059,Wankhede,2022-04-04,Royal Challengers Bangalore,field,Anil Chaudhary,Saiyed Khalid,Wankhede Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,4,wickets,N,,0
+1304060,Pune,2022-04-05,Kolkata Knight Riders,field,Bruce Oxenford,KN Ananthapadmanabhan,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Pat Cummins,5,wickets,N,,0
+1304061,DY Patil,2022-04-06,Lucknow Super Giants,field,Rod Tucker,Tapan Sharma,Dr DY Patil Sports Academy,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Quinton de Kock,6,wickets,N,,0
+1304062,Brabourne,2022-04-07,Gujarat Titans,field,Anil Chaudhary,Virender Sharma,Brabourne Stadium,Gujarat Titans,Gujarat Titans,Punjab Kings,Shubman Gill,6,wickets,N,,0
+1304063,DY Patil,2022-04-08,Sunrisers Hyderabad,field,Navdeep Singh,Nitin Menon,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,8,wickets,N,,0
+1304064,Pune,2022-04-08,Royal Challengers Bangalore,field,Bruce Oxenford,KN Ananthapadmanabhan,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Anuj Rawat,7,wickets,N,,0
+1304065,Brabourne,2022-04-09,Kolkata Knight Riders,field,Chris Gaffaney,Jayaraman Madanagopal,Brabourne Stadium,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,44,runs,N,,0
+1304066,Wankhede,2022-04-09,Lucknow Super Giants,field,Anil Chaudhary,Tapan Sharma,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Yuzvendra Chahal,3,runs,N,,0
+1304067,DY Patil,2022-04-10,Sunrisers Hyderabad,field,Chirra Ravikanthreddy,Rod Tucker,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Kane Williamson,8,wickets,N,,0
+1304068,DY Patil,2022-04-11,Royal Challengers Bangalore,field,Nitin Menon,Nitin Pandit,Dr DY Patil Sports Academy,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Shivam Dube,23,runs,N,,0
+1304069,Pune,2022-04-12,Mumbai Indians,field,Bruce Oxenford,Ulhas Gandhe,Maharashtra Cricket Association Stadium,Punjab Kings,Punjab Kings,Mumbai Indians,Mayank Agarwal,12,runs,N,,0
+1304070,DY Patil,2022-04-13,Rajasthan Royals,field,Chris Gaffaney,Rohan Pandit,Dr DY Patil Sports Academy,Gujarat Titans,Gujarat Titans,Rajasthan Royals,Hardik Pandya,37,runs,N,,0
+1304071,Brabourne,2022-04-14,Sunrisers Hyderabad,field,Sadashiv Iyer,Virender Sharma,Brabourne Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Rahul Tripathi,7,wickets,N,,0
+1304073,Wankhede,2022-04-15,Delhi Capitals,field,Chirra Ravikanthreddy,Jayaraman Madanagopal,Wankhede Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,Dinesh Karthik,16,runs,N,,0
+1304074,DY Patil,2022-04-16,Sunrisers Hyderabad,field,Pashchim Pathak,Rohan Pandit,Dr DY Patil Sports Academy,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Umran Malik,7,wickets,N,,0
+1304075,Pune,2022-04-16,Gujarat Titans,field,KN Ananthapadmanabhan,Ulhas Gandhe,Maharashtra Cricket Association Stadium,Gujarat Titans,Gujarat Titans,Chennai Super Kings,David Miller,3,wickets,N,,0
+1304076,Brabourne,2022-04-17,Kolkata Knight Riders,field,Sadashiv Iyer,Virender Sharma,Brabourne Stadium,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Yuzvendra Chahal,7,runs,N,,0
+1304078,Brabourne,2022-04-19,Delhi Capitals,field,Rod Tucker,Tapan Sharma,Brabourne Stadium,Delhi Capitals,Delhi Capitals,Punjab Kings,Kuldeep Yadav,9,wickets,N,,0
+1304079,DY Patil,2022-04-20,Chennai Super Kings,field,Bruce Oxenford,Ulhas Gandhe,Dr DY Patil Sports Academy,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mukesh Choudhary,3,wickets,N,,0
+1304080,Wankhede,2022-04-21,Delhi Capitals,field,Nikhil Patwardhan,Nitin Menon,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Jos Buttler,15,runs,N,,0
+1304081,DY Patil,2022-04-22,Gujarat Titans,bat,KN Ananthapadmanabhan,Ulhas Gandhe,Dr DY Patil Sports Academy,Gujarat Titans,Gujarat Titans,Kolkata Knight Riders,Rashid Khan,8,runs,N,,0
+1304082,Brabourne,2022-04-22,Sunrisers Hyderabad,field,Chirra Ravikanthreddy,Jayaraman Madanagopal,Brabourne Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Marco Jansen,9,wickets,N,,0
+1304084,Wankhede,2022-04-24,Chennai Super Kings,field,Marais Erasmus,Tapan Sharma,Wankhede Stadium,Punjab Kings,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,11,runs,N,,0
+1304085,Pune,2022-04-25,Royal Challengers Bangalore,field,Bruce Oxenford,KN Ananthapadmanabhan,Maharashtra Cricket Association Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Riyan Parag,29,runs,N,,0
+1304086,Wankhede,2022-04-26,Gujarat Titans,field,Chris Gaffaney,Navdeep Singh,Wankhede Stadium,Gujarat Titans,Gujarat Titans,Sunrisers Hyderabad,Umran Malik,5,wickets,N,,0
+1304087,Wankhede,2022-04-27,Delhi Capitals,field,Anil Chaudhary,Pashchim Pathak,Wankhede Stadium,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,4,wickets,N,,0
+1304088,Pune,2022-04-28,Punjab Kings,field,Michael Gough,Ulhas Gandhe,Maharashtra Cricket Association Stadium,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Krunal Pandya,20,runs,N,,0
+1304089,Brabourne,2022-04-29,Royal Challengers Bangalore,bat,Saiyed Khalid,Virender Sharma,Brabourne Stadium,Gujarat Titans,Gujarat Titans,Royal Challengers Bangalore,Rahul Tewatia,6,wickets,N,,0
+1304093,Wankhede,2022-05-01,Kolkata Knight Riders,field,Jayaraman Madanagopal,Nitin Pandit,Wankhede Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,7,wickets,N,,0
+1304094,DY Patil,2022-05-02,Gujarat Titans,bat,Rohan Pandit,Virender Sharma,Dr DY Patil Sports Academy,Punjab Kings,Punjab Kings,Gujarat Titans,Kagiso Rabada,8,wickets,N,,0
+1304095,Pune,2022-05-03,Chennai Super Kings,field,KN Ananthapadmanabhan,Michael Gough,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Harshal Patel,13,runs,N,,0
+1304096,Brabourne,2022-05-04,Sunrisers Hyderabad,field,Navdeep Singh,Nikhil Patwardhan,Brabourne Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,David Warner,21,runs,N,,0
+1304097,Brabourne,2022-05-05,Gujarat Titans,field,Jayaraman Madanagopal,Sadashiv Iyer,Brabourne Stadium,Mumbai Indians,Mumbai Indians,Gujarat Titans,Tim David,5,runs,N,,0
+1304098,Wankhede,2022-05-06,Punjab Kings,bat,Chirra Ravikanthreddy,Yeshwant Barde,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Yashasvi Jaiswal,6,wickets,N,,0
+1304099,Pune,2022-05-06,Kolkata Knight Riders,field,Anil Chaudhary,Michael Gough,Maharashtra Cricket Association Stadium,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Avesh Khan,75,runs,N,,0
+1304100,Wankhede,2022-05-07,Royal Challengers Bangalore,bat,Bruce Oxenford,Nitin Pandit,Wankhede Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Wanindu Hasaranga de Silva,67,runs,N,,0
+1304102,DY Patil,2022-05-08,Mumbai Indians,field,Chris Gaffaney,Sadashiv Iyer,Dr DY Patil Sports Academy,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Jasprit Bumrah,52,runs,N,,0
+1304103,Pune,2022-05-09,Gujarat Titans,bat,KN Ananthapadmanabhan,Michael Gough,Maharashtra Cricket Association Stadium,Gujarat Titans,Gujarat Titans,Lucknow Super Giants,Shubman Gill,62,runs,N,,0
+1304104,DY Patil,2022-05-10,Delhi Capitals,field,Nikhil Patwardhan,Nitin Menon,Dr DY Patil Sports Academy,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Mitchell Marsh,8,wickets,N,,0
+1304105,Wankhede,2022-05-11,Mumbai Indians,field,Chirra Ravikanthreddy,Chris Gaffaney,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Daniel Sams,5,wickets,N,,0
+1304106,Brabourne,2022-05-12,Royal Challengers Bangalore,field,Jayaraman Madanagopal,Nitin Pandit,Brabourne Stadium,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,Jonny Bairstow,54,runs,N,,0
+1304107,Pune,2022-05-13,Kolkata Knight Riders,bat,Anil Chaudhary,KN Ananthapadmanabhan,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,54,runs,N,,0
+1304108,Wankhede,2022-05-14,Chennai Super Kings,bat,Rohan Pandit,Virender Sharma,Wankhede Stadium,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Wriddhiman Saha,7,wickets,N,,0
+1304109,Brabourne,2022-05-14,Rajasthan Royals,bat,Pashchim Pathak,Tapan Sharma,Brabourne Stadium,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Trent Boult,24,runs,N,,0
+1304110,DY Patil,2022-05-15,Punjab Kings,field,Nitin Menon,Sadashiv Iyer,Dr DY Patil Sports Academy,Delhi Capitals,Delhi Capitals,Punjab Kings,Shardul Thakur,17,runs,N,,0
+1304112,DY Patil,2022-05-17,Lucknow Super Giants,bat,Rohan Pandit,Yeshwant Barde,Dr DY Patil Sports Academy,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Quinton de Kock,2,runs,N,,0
+1304113,Wankhede,2022-05-18,Gujarat Titans,bat,KN Ananthapadmanabhan,Sadashiv Iyer,Wankhede Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Gujarat Titans,Virat Kohli,8,wickets,N,,0
+1304114,Brabourne,2022-05-19,Chennai Super Kings,bat,Chris Gaffaney,Nikhil Patwardhan,Brabourne Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,5,wickets,N,,0
+1304116,Wankhede,2022-05-21,Sunrisers Hyderabad,bat,Anil Chaudhary,Nikhil Patwardhan,Wankhede Stadium,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Harpreet Brar,5,wickets,N,,0
+1254058,Chennai,2021-04-08,Royal Challengers Bangalore,field,KN Ananthapadmanabhan,Nitin Menon,MA Chidambaram Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Harshal Patel,2,wickets,N,,0
+1254059,Wankhede,2021-04-09,Delhi Capitals,field,Anil Chaudhary,Virender Sharma,Wankhede Stadium,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Shikhar Dhawan,7,wickets,N,,0
+1254060,Chennai,2021-04-10,Sunrisers Hyderabad,field,KN Ananthapadmanabhan,Nitin Menon,MA Chidambaram Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Nitish Rana,10,runs,N,,0
+1254062,Chennai,2021-04-12,Kolkata Knight Riders,field,Chettithody Shamshuddin,Chris Gaffaney,MA Chidambaram Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Rahul Chahar,10,runs,N,,0
+1254064,Wankhede,2021-04-14,Rajasthan Royals,field,Sundaram Ravi,Virender Sharma,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Jaydev Unadkat,3,wickets,N,,0
+1254065,Wankhede,2021-04-15,Chennai Super Kings,field,Anil Chaudhary,Anil Dandekar,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Deepak Chahar,6,wickets,N,,0
+1254066,Chennai,2021-04-16,Mumbai Indians,bat,Chris Gaffaney,Krishnamachari Srinivasan,MA Chidambaram Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Kieron Pollard,13,runs,N,,0
+1254067,Chennai,2021-04-17,Royal Challengers Bangalore,bat,Chettithody Shamshuddin,Nitin Menon,MA Chidambaram Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,38,runs,N,,0
+1254068,Wankhede,2021-04-17,Delhi Capitals,field,Anil Chaudhary,Paul Reiffel,Wankhede Stadium,Delhi Capitals,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6,wickets,N,,0
+1254069,Wankhede,2021-04-18,Rajasthan Royals,field,Paul Reiffel,Virender Sharma,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,Moeen Ali,45,runs,N,,0
+1254070,Chennai,2021-04-19,Mumbai Indians,bat,Chettithody Shamshuddin,Chris Gaffaney,MA Chidambaram Stadium,Delhi Capitals,Delhi Capitals,Mumbai Indians,Amit Mishra,6,wickets,N,,0
+1254071,Chennai,2021-04-20,Punjab Kings,bat,Krishnamachari Srinivasan,Nitin Menon,MA Chidambaram Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Jonny Bairstow,9,wickets,N,,0
+1254072,Wankhede,2021-04-20,Kolkata Knight Riders,field,Anil Dandekar,Paul Reiffel,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Faf du Plessis,18,runs,N,,0
+1254073,Wankhede,2021-04-21,Royal Challengers Bangalore,field,Jayaraman Madanagopal,Sundaram Ravi,Wankhede Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Devdutt Padikkal,10,wickets,N,,0
+1254074,Chennai,2021-04-22,Punjab Kings,field,Chettithody Shamshuddin,Nitin Menon,MA Chidambaram Stadium,Punjab Kings,Punjab Kings,Mumbai Indians,KL Rahul,9,wickets,N,,0
+1254075,Wankhede,2021-04-23,Rajasthan Royals,field,Navdeep Singh,Sundaram Ravi,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Chris Morris,6,wickets,N,,0
+1254076,Wankhede,2021-04-24,Chennai Super Kings,bat,Anil Chaudhary,Virender Sharma,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,69,runs,N,,0
+1254077,Chennai,2021-04-24,Delhi Capitals,bat,Chris Gaffaney,KN Ananthapadmanabhan,MA Chidambaram Stadium,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,Prithvi Shaw,,tie,Y,one-over,0
+1254079,Ahmedabad,2021-04-26,Delhi Capitals,field,Sundaram Ravi,Virender Sharma,Narendra Modi Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,AB de Villiers,1,run,N,,0
+1254081,Delhi,2021-04-28,Mumbai Indians,field,Chris Gaffaney,KN Ananthapadmanabhan,Arun Jaitley Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Quinton de Kock,7,wickets,N,,0
+1254084,Delhi,2021-04-30,Mumbai Indians,field,KN Ananthapadmanabhan,Nandan,Arun Jaitley Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Kieron Pollard,4,wickets,N,,0
+1254085,Delhi,2021-05-01,Sunrisers Hyderabad,field,Chettithody Shamshuddin,Chris Gaffaney,Arun Jaitley Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,55,runs,N,,0
+1254086,Ahmedabad,2021-05-01,Delhi Capitals,field,Anil Chaudhary,Anil Dandekar,Narendra Modi Stadium,Delhi Capitals,Delhi Capitals,Punjab Kings,Mayank Agarwal,7,wickets,N,,0
+1254087,Abu Dhabi,2021-09-19,Royal Challengers Bangalore,bat,Chris Gaffaney,Sundaram Ravi,Zayed Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Varun Chakravarthy,9,wickets,N,,0
+1254111,Dubai (DSC),2021-09-20,Punjab Kings,field,Anil Chaudhary,Michael Gough,Dubai International Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Kartik Tyagi,2,runs,N,,0
+1254108,Dubai (DSC),2021-09-25,Mumbai Indians,field,Anil Chaudhary,Michael Gough,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Glenn Maxwell,54,runs,N,,0
+1254099,Abu Dhabi,2021-09-27,Mumbai Indians,field,Sundaram Ravi,Virender Sharma,Zayed Cricket Stadium,Mumbai Indians,Mumbai Indians,Punjab Kings,Kieron Pollard,6,wickets,N,,0
+1254091,Sharjah,2021-09-29,Chennai Super Kings,field,Nitin Menon,Yeshwant Barde,Sharjah Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Josh Hazlewood,6,wickets,N,,0
+1254089,Abu Dhabi,2021-10-01,Rajasthan Royals,field,Chris Gaffaney,Virender Sharma,Zayed Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Ruturaj Gaikwad,7,wickets,N,,0
+1254090,Sharjah,2021-10-02,Royal Challengers Bangalore,bat,KN Ananthapadmanabhan,Richard Illingworth,Sharjah Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,6,runs,N,,0
+1254109,Dubai (DSC),2021-10-02,Sunrisers Hyderabad,bat,Jayaraman Madanagopal,Michael Gough,Dubai International Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill,6,wickets,N,,0
+1254095,Abu Dhabi,2021-10-05,Royal Challengers Bangalore,field,Sundaram Ravi,Ulhas Gandhe,Zayed Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Kane Williamson,4,runs,N,,0
+1254101,Dubai (DSC),2021-10-07,Royal Challengers Bangalore,field,KN Ananthapadmanabhan,Nitin Menon,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,Srikar Bharat,7,wickets,N,,0
+1254088,Abu Dhabi,2021-10-07,Mumbai Indians,bat,Tapan Sharma,Virender Sharma,Zayed Cricket Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,42,runs,N,,0
+1216510,Dubai (DSC),2020-09-23,Royal Challengers Bangalore,field,Anil Chaudhary,Paul Reiffel,Dubai International Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,KL Rahul,97,runs,N,,0
+1216539,Dubai (DSC),2020-09-24,Chennai Super Kings,field,KN Ananthapadmanabhan,Richard Illingworth,Dubai International Cricket Stadium,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Prithvi Shaw,44,runs,N,,0
+1216545,Abu Dhabi,2020-09-25,Sunrisers Hyderabad,bat,Chris Gaffaney,Virender Sharma,Zayed Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill,7,wickets,N,,0
+1216527,Sharjah,2020-09-26,Rajasthan Royals,field,Krishnamachari Srinivasan,Richard Illingworth,Sharjah Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sanju Samson,4,wickets,N,,0
+1216515,Sharjah,2020-10-02,Kolkata Knight Riders,field,Richard Illingworth,Vineet Kulkarni,Sharjah Cricket Stadium,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Shreyas Iyer,18,runs,N,,0
+1216538,Sharjah,2020-10-03,Mumbai Indians,bat,KN Ananthapadmanabhan,Richard Illingworth,Sharjah Cricket Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Trent Boult,34,runs,N,,0
+1216513,Dubai (DSC),2020-10-03,Kings XI Punjab,bat,Anil Dandekar,Nitin Menon,Dubai International Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Shane Watson,10,wickets,N,,0
+1216519,Dubai (DSC),2020-10-04,Royal Challengers Bangalore,field,Nitin Menon,Yeshwant Barde,Dubai International Cricket Stadium,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,59,runs,N,,0
+1216511,Abu Dhabi,2020-10-05,Mumbai Indians,bat,Sundaram Ravi,Virender Sharma,Zayed Cricket Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,57,runs,N,,0
+1216501,Abu Dhabi,2020-10-06,Kolkata Knight Riders,bat,KN Ananthapadmanabhan,Richard Illingworth,Zayed Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Rahul Tripathi,10,runs,N,,0
+1216542,Dubai (DSC),2020-10-07,Sunrisers Hyderabad,bat,Anil Chaudhary,Nitin Menon,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Jonny Bairstow,69,runs,N,,0
+1216525,Dubai (DSC),2020-10-09,Royal Challengers Bangalore,bat,Anil Chaudhary,Paul Reiffel,Dubai International Cricket Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,37,runs,N,,0
+1216529,Abu Dhabi,2020-10-10,Delhi Capitals,bat,Chris Gaffaney,Sundaram Ravi,Zayed Cricket Stadium,Mumbai Indians,Mumbai Indians,Delhi Capitals,Quinton de Kock,5,wickets,N,,0
+1216531,Sharjah,2020-10-14,Royal Challengers Bangalore,bat,Chettithody Shamshuddin,KN Ananthapadmanabhan,Sharjah Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,KL Rahul,8,wickets,N,,0
+1216512,Abu Dhabi,2020-10-17,Sunrisers Hyderabad,field,Pashchim Pathak,Sundaram Ravi,Zayed Cricket Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Lockie Ferguson,,tie,Y,one-over,0
+1216498,Dubai (DSC),2020-10-23,Sunrisers Hyderabad,field,Anil Dandekar,Paul Reiffel,Dubai International Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Chris Jordan,12,runs,N,,0
+1216544,Dubai (DSC),2020-10-24,Royal Challengers Bangalore,bat,Chettithody Shamshuddin,Richard Illingworth,Dubai International Cricket Stadium,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,8,wickets,N,,0
+1216541,Abu Dhabi,2020-10-24,Mumbai Indians,bat,Ulhas Gandhe,Virender Sharma,Zayed Cricket Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Ben Stokes,8,wickets,N,,0
+1216520,Sharjah,2020-10-25,Kings XI Punjab,field,KN Ananthapadmanabhan,Richard Illingworth,Sharjah Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Chris Gayle,8,wickets,N,,0
+1216524,Dubai (DSC),2020-10-26,Delhi Capitals,field,Anil Chaudhary,Nitin Menon,Dubai International Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Wriddhiman Saha,88,runs,N,,0
+1216495,Sharjah,2020-11-02,Sunrisers Hyderabad,field,Chettithody Shamshuddin,Richard Illingworth,Sharjah Cricket Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Shahbaz Nadeem,10,wickets,N,,0
+1175361,Kolkata,2019-03-26,Kings XI Punjab,field,Anil Chaudhary,Vineet Kulkarni,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Andre Russell,28,runs,N,,0
+1175364,Mohali,2019-03-29,Kings XI Punjab,field,Chris Gaffaney,Vineet Kulkarni,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Mayank Agarwal,8,wickets,N,,0
+1175368,Mohali,2019-03-31,Delhi Capitals,field,Anil Chaudhary,Chris Gaffaney,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Delhi Capitals,Sam Curran,14,runs,N,,0
+1175369,Jaipur,2019-04-01,Rajasthan Royals,field,Anil Dandekar,Marais Erasmus,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Shreyas Gopal,7,wickets,N,,0
+1175370,Wankhede,2019-04-02,Chennai Super Kings,field,Bruce Oxenford,Rod Tucker,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Hardik Pandya,37,runs,N,,0
+1175371,Delhi,2019-04-03,Sunrisers Hyderabad,field,Chettithody Shamshuddin,KN Ananthapadmanabhan,Feroz Shah Kotla,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Jonny Bairstow,5,wickets,N,,0
+1178394,Hyderabad (Deccan),2019-04-05,Sunrisers Hyderabad,field,Anil Dandekar,Nitin Menon,Rajiv Gandhi International Stadium,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Alzarri Joseph,40,runs,N,,0
+1178395,Bengaluru,2019-04-06,Delhi Capitals,field,Sundaram Ravi,Yeshwant Barde,M Chinnaswamy Stadium,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,Kagiso Rabada,4,wickets,N,,0
+1178400,Jaipur,2019-04-10,Chennai Super Kings,field,Bruce Oxenford,Ulhas Gandhe,Sawai Mansingh Stadium,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,MS Dhoni,4,wickets,N,,0
+1178402,Wankhede,2019-04-12,Rajasthan Royals,field,Nand Kishore,Nitin Menon,Wankhede Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Jos Buttler,4,wickets,N,,0
+1178403,Mohali,2019-04-12,Royal Challengers Bangalore,field,Sundaram Ravi,Ulhas Gandhe,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,8,wickets,N,,0
+1178414,Bengaluru,2019-04-20,Chennai Super Kings,field,Rod Tucker,Vineet Kulkarni,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Parthiv Patel,1,run,N,,0
+1178419,Chennai,2019-04-25,Chennai Super Kings,field,Anil Chaudhary,Nigel Llong,MA Chidambaram Stadium,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Rohit Sharma,46,runs,N,,0
+1178420,Jaipur,2019-04-26,Rajasthan Royals,field,Nand Kishore,Yeshwant Barde,Sawai Mansingh Stadium,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,Jaydev Unadkat,7,wickets,N,,0
+1178424,Bengaluru,2019-04-29,Rajasthan Royals,field,Nigel Llong,Ulhas Gandhe,M Chinnaswamy Stadium,,Royal Challengers Bangalore,Rajasthan Royals,,,,,,0
+1178431,Wankhede,2019-05-04,Mumbai Indians,field,Nand Kishore,Nandan,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,9,wickets,N,,0
+1136565,Chennai,2018-04-09,Chennai Super Kings,field,Anil Chaudhary,Chris Gaffaney,MA Chidambaram Stadium,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Sam Billings,5,wickets,N,,0
+1136571,Bengaluru,2018-04-14,Royal Challengers Bangalore,field,Chettithody Shamshuddin,Sundaram Ravi,M Chinnaswamy Stadium,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,19,runs,N,,0
+1136574,Wankhede,2018-04-16,Royal Challengers Bangalore,field,Nitin Menon,Rod Tucker,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,46,runs,N,,0
+1136576,Mohali,2018-04-18,Kings XI Punjab,bat,Anil Chaudhary,Nigel Llong,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Chris Gayle,15,runs,N,,0
+1136578,Kolkata,2018-04-20,Kings XI Punjab,field,Abhijit Deshmukh,Chettithody Shamshuddin,Eden Gardens,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,KL Rahul,9,wickets,N,XI won by 9 wickets (with 11 balls remaining) (D/L,0
+1136580,Hyderabad (Deccan),2018-04-21,Sunrisers Hyderabad,field,Anil Chaudhary,Vineet Kulkarni,Rajiv Gandhi International Stadium,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Ambati Rayudu,4,runs,N,,0
+1136584,Bengaluru,2018-04-24,Chennai Super Kings,field,Nigel Llong,Virender Sharma,M Chinnaswamy Stadium,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,5,wickets,N,,0
+1136585,Hyderabad (Deccan),2018-04-25,Kings XI Punjab,field,Nandan,Yeshwant Barde,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Ankit Rajpoot,13,runs,N,,0
+1136588,Jaipur,2018-04-28,Sunrisers Hyderabad,bat,Bruce Oxenford,Nand Kishore,Sawai Mansingh Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,11,runs,N,,0
+1136591,Bengaluru,2018-04-30,Mumbai Indians,field,Marais Erasmus,Nitin Menon,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Tim Southee,14,runs,N,,0
+1136592,Delhi,2018-05-01,Rajasthan Royals,field,Nandan,Virender Sharma,Feroz Shah Kotla,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Rishabh Pant,4,runs,N,won by 4 runs (D/L,0
+1136593,Kolkata,2018-05-02,Kolkata Knight Riders,field,Abhijit Deshmukh,Kumar Dharmasena,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Sunil Narine,6,wickets,N,,0
+1136594,Indore,2018-05-03,Mumbai Indians,field,Anil Dandekar,Sundaram Ravi,Holkar Cricket Stadium,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Suryakumar Yadav,6,wickets,N,,0
+1136598,Indore,2018-05-05,Kings XI Punjab,field,Chettithody Shamshuddin,Sundaram Ravi,Holkar Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Mujeeb Ur Rahman,6,wickets,N,,0
+1136606,Pune,2018-05-12,Chennai Super Kings,field,Marais Erasmus,Yeshwant Barde,Maharashtra Cricket Association Stadium,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Ambati Rayudu,8,wickets,N,,0
+1136609,Kolkata,2018-05-14,Kolkata Knight Riders,field,Anil Chaudhary,Kumar Dharmasena,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Kuldeep Yadav,6,wickets,N,,0
+1136611,Bengaluru,2018-05-16,Sunrisers Hyderabad,field,Anil Dandekar,Sundaram Ravi,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,AB de Villiers,14,runs,N,,0
+1136614,Hyderabad (Deccan),2018-05-18,Sunrisers Hyderabad,bat,Anil Chaudhary,Sundaram Ravi,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Chris Lynn,5,wickets,N,,0
+1136615,Delhi,2018-05-19,Delhi Daredevils,bat,Kumar Dharmasena,Nandan,Feroz Shah Kotla,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Amit Mishra,11,runs,N,,0
+1082593,Rajkot,2017-04-06,Kolkata Knight Riders,field,Nandan,Nitin Menon,Saurashtra Cricket Association Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Gujarat Lions,Chris Lynn,10,wickets,N,,0
+1082595,Bengaluru,2017-04-07,Royal Challengers Bangalore,bat,Sundaram Ravi,Virender Sharma,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Kedar Jadhav,15,runs,N,,0
+1082596,Hyderabad (Deccan),2017-04-08,Sunrisers Hyderabad,field,Abhijit Deshmukh,Nigel Llong,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,Rashid Khan,9,wickets,N,,0
+1082598,Indore,2017-04-09,Royal Challengers Bangalore,bat,Anil Chaudhary,Chettithody Shamshuddin,Holkar Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,Axar Patel,8,wickets,N,,0
+1082601,Kolkata,2017-04-12,Kolkata Knight Riders,field,Abhijit Deshmukh,Nigel Llong,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Sunil Narine,8,wickets,N,,0
+1082603,Rajkot,2017-04-13,Gujarat Lions,field,Nand Kishore,Sundaram Ravi,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Rising Pune Supergiant,Andrew Tye,7,wickets,N,,0
+1082604,Kolkata,2017-04-14,Sunrisers Hyderabad,field,Anil Dandekar,Nigel Llong,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Robin Uthappa,17,runs,N,,0
+1082606,Wankhede,2017-04-15,Mumbai Indians,field,Nand Kishore,Sundaram Ravi,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Gujarat Lions,Nitish Rana,6,wickets,N,,0
+1082608,Delhi,2017-04-16,Delhi Daredevils,bat,Nandan,Nitin Menon,Feroz Shah Kotla,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Nathan Coulter-Nile,4,wickets,N,,0
+1082611,Hyderabad (Deccan),2017-04-18,Sunrisers Hyderabad,bat,Chris Gaffaney,Nigel Llong,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Daredevils,Kane Williamson,15,runs,N,,0
+1082612,Indore,2017-04-19,Mumbai Indians,field,Chettithody Shamshuddin,Marais Erasmus,Holkar Cricket Stadium,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Jos Buttler,8,wickets,N,,0
+1082622,Kolkata,2017-04-27,Kolkata Knight Riders,field,Nigel Llong,Sundaram Ravi,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Gautam Gambhir,7,wickets,N,,0
+1082628,Wankhede,2017-04-30,Royal Challengers Bangalore,bat,Anil Chaudhary,Chris Gaffaney,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,5,wickets,N,,0
+1082631,Kolkata,2017-05-02,Rising Pune Supergiant,field,KN Ananthapadmanabhan,Nand Kishore,Eden Gardens,Rising Pune Supergiant,Rising Pune Supergiant,Kolkata Knight Riders,Rahul Tripathi,4,wickets,N,,0
+1082635,Delhi,2017-05-05,Delhi Daredevils,field,Nandan,Nitin Menon,Feroz Shah Kotla,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Lendl Simmons,146,runs,N,,0
+1082636,Bengaluru,2017-05-06,Kolkata Knight Riders,field,Anil Dandekar,Chettithody Shamshuddin,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,6,wickets,N,,0
+1082639,Mohali,2017-05-08,Kolkata Knight Riders,field,Nand Kishore,Sundaram Ravi,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Mohit Sharma,14,runs,N,,0
+1082641,Wankhede,2017-05-10,Mumbai Indians,field,Abhijit Deshmukh,Nand Kishore,Wankhede Stadium,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Wriddhiman Saha,7,runs,N,,0
+1082642,Delhi,2017-05-11,Delhi Daredevils,bat,KN Ananthapadmanabhan,Nandan,Feroz Shah Kotla,Delhi Daredevils,Delhi Daredevils,Rising Pune Supergiant,Karun Nair,7,runs,N,,0
+1082644,Kolkata,2017-05-12,Kolkata Knight Riders,field,Nand Kishore,Sundaram Ravi,Eden Gardens,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Ambati Rayudu,9,runs,N,,0
+1082645,Pune,2017-05-13,Rising Pune Supergiant,field,Abhijit Deshmukh,Anil Dandekar,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,Rising Pune Supergiant,Kings XI Punjab,Jaydev Unadkat,9,wickets,N,,0
+1082646,Delhi,2017-05-13,Royal Challengers Bangalore,bat,Chettithody Shamshuddin,Nandan,Feroz Shah Kotla,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Harshal Patel,10,runs,N,,0
+980901,Wankhede,2016-04-08,Mumbai Indians,bat,Kumar Dharmasena,Nandan,Wankhede Stadium,Rising Pune Supergiants,Rising Pune Supergiants,Mumbai Indians,Ajinkya Rahane,9,wickets,N,,0
+980907,Bengaluru,2016-04-11,Sunrisers Hyderabad,field,Kumar Dharmasena,Virender Sharma,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,AB de Villiers,45,runs,N,,0
+980909,Kolkata,2016-04-12,Mumbai Indians,field,Nitin Menon,Sundaram Ravi,Eden Gardens,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,6,wickets,N,,0
+980915,Hyderabad (Deccan),2016-04-15,Sunrisers Hyderabad,bat,Anil Chaudhary,Nandan,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Gautam Gambhir,8,wickets,N,,0
+980919,Mohali,2016-04-16,Rising Pune Supergiants,bat,Chettithody Shamshuddin,Sundaram Ravi,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Rising Pune Supergiants,Manan Vohra,6,wickets,N,,0
+980927,Wankhede,2016-04-19,Mumbai Indians,field,Anil Chaudhary,Nandan,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6,wickets,N,,0
+980931,Pune,2016-04-21,Rising Pune Supergiants,field,Chris Gaffaney,Virender Sharma,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiants,AB de Villiers,13,runs,N,,0
+980933,Delhi,2016-04-22,Mumbai Indians,field,Chettithody Shamshuddin,Sundaram Ravi,Feroz Shah Kotla,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Sanju Samson,10,runs,N,,0
+980937,Rajkot,2016-04-23,Royal Challengers Bangalore,bat,Bruce Oxenford,Krishnamachari Bharatan,Saurashtra Cricket Association Stadium,Gujarat Lions,Gujarat Lions,Royal Challengers Bangalore,Virat Kohli,6,wickets,N,,0
+980941,Mohali,2016-04-24,Kings XI Punjab,field,Nitin Menon,Rod Tucker,Punjab Cricket Association IS Bindra Stadium,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Parthiv Patel,25,runs,N,,0
+980947,Wankhede,2016-04-27,Mumbai Indians,field,Nitin Menon,Rod Tucker,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,6,wickets,N,,0
+980951,Delhi,2016-04-29,Kolkata Knight Riders,field,KN Ananthapadmanabhan,Marais Erasmus,Feroz Shah Kotla,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Carlos Brathwaite,27,runs,N,,0
+980953,Hyderabad (Deccan),2016-04-29,Royal Challengers Bangalore,field,Anil Chaudhary,Kumar Dharmasena,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,David Warner,15,runs,N,,0
+980955,Rajkot,2016-04-30,Gujarat Lions,field,Bruce Oxenford,Virender Sharma,Saurashtra Cricket Association Stadium,Kings XI Punjab,Kings XI Punjab,Gujarat Lions,Axar Patel,23,runs,N,,0
+980957,Pune,2016-04-30,Mumbai Indians,field,Anil Dandekar,Rod Tucker,Maharashtra Cricket Association Stadium,Mumbai Indians,Mumbai Indians,Rising Pune Supergiants,Rohit Sharma,8,wickets,N,,0
+980959,Bengaluru,2016-05-01,Kolkata Knight Riders,field,Marais Erasmus,Sundaram Ravi,M Chinnaswamy Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,5,wickets,N,,0
+980961,Rajkot,2016-05-02,Delhi Daredevils,field,Bruce Oxenford,Chris Gaffaney,Saurashtra Cricket Association Stadium,Delhi Daredevils,Delhi Daredevils,Gujarat Lions,Rishabh Pant,8,wickets,N,,0
+980963,Kolkata,2016-05-03,Kings XI Punjab,field,Anil Chaudhary,Kumar Dharmasena,Eden Gardens,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Andre Russell,7,runs,N,,0
+980967,Hyderabad (Deccan),2016-05-05,Sunrisers Hyderabad,field,Marais Erasmus,Sundaram Ravi,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Lions,Bhuvneshwar Kumar,5,wickets,N,,0
+980971,Mohali,2016-05-06,Delhi Daredevils,field,Kumar Dharmasena,Nandan,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Marcus Stoinis,9,runs,N,,0
+980977,Mohali,2016-05-08,Kings XI Punjab,field,Anil Chaudhary,Kumar Dharmasena,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Shane Watson,1,run,N,,0
+980985,Visakhapatnam,2016-05-12,Mumbai Indians,bat,Kumar Dharmasena,Nandan,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Marcus Stoinis,7,wickets,N,,0
+980987,Bengaluru,2016-05-13,Gujarat Lions,field,Anil Dandekar,Virender Sharma,M Chinnaswamy Stadium,Royal Challengers Bangalore,Royal Challengers Bangalore,Gujarat Lions,AB de Villiers,144,runs,N,,0
+981007,Kanpur,2016-05-20,Gujarat Lions,field,Anil Chaudhary,Nandan,Green Park,Gujarat Lions,Gujarat Lions,Mumbai Indians,Suresh Raina,6,wickets,N,,0
+829709,Pune,2015-04-09,Kings XI Punjab,field,Chris Gaffaney,Simon Fry,Maharashtra Cricket Association Stadium,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,James Faulkner,26,runs,N,,0
+829713,Kolkata,2015-04-10,Royal Challengers Bangalore,field,Chettithody Shamshuddin,Sundaram Ravi,Eden Gardens,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Chris Gayle,3,wickets,N,,0
+829717,Wankhede,2015-04-11,Mumbai Indians,field,Anil Chaudhary,Krishnamachari Srinivasan,Wankhede Stadium,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,George Bailey,18,runs,N,,0
+829721,Ahmedabad,2015-04-13,Mumbai Indians,bat,Anil Chaudhary,Simon Fry,Sardar Patel Stadium,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Steven Smith,7,wickets,N,,0
+829729,Wankhede,2015-04-16,Mumbai Indians,bat,Anil Chaudhary,Marais Erasmus,Wankhede Stadium,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Ashish Nehra,6,wickets,N,,0
+829733,Pune,2015-04-17,Kolkata Knight Riders,field,Nandan,Simon Fry,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,Andre Russell,4,wickets,N,,0
+829735,Ahmedabad,2015-04-18,Chennai Super Kings,bat,Anil Chaudhary,Marais Erasmus,Sardar Patel Stadium,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Ajinkya Rahane,8,wickets,N,,0
+829741,Ahmedabad,2015-04-20,Kings XI Punjab,field,Marais Erasmus,Sundaram Ravi,Sardar Patel Stadium,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Shaun Marsh,,tie,Y,one-over,0
+829745,Bengaluru,2015-04-21,Royal Challengers Bangalore,field,Chettithody Shamshuddin,Johan Cloete,M Chinnaswamy Stadium,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Suresh Raina,27,runs,N,,0
+829757,Delhi,2015-04-25,Royal Challengers Bangalore,field,Marais Erasmus,Sundaram Ravi,Feroz Shah Kotla,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Varun Aaron,10,wickets,N,,0
+829759,Mohali,2015-04-26,Kings XI Punjab,field,Chris Gaffaney,Kumar Dharmasena,Punjab Cricket Association Stadium,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Trent Boult,20,runs,N,,0
+829765,Chennai,2015-04-27,Kolkata Knight Riders,field,Rajesh Deshpande,Vineet Kulkarni,MA Chidambaram Stadium,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Dwayne Bravo,2,runs,N,,0
+829769,Wankhede,2015-04-30,Rajasthan Royals,field,Kumar Dharmasena,Nandan,Wankhede Stadium,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Ambati Rayudu,8,runs,N,,0

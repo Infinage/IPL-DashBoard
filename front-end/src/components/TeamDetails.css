@@ -1,0 +1,29 @@
+.TeamDetails{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.TeamDetails .fields{
+    grid-column: span 1;
+    margin-top: 15px;
+}
+
+.TeamDetails .chart{
+    grid-column: span 1;
+    margin: 10px 10px 10px 0px
+}
+
+.TeamDetails h2{
+    line-height: 20px;
+}
+
+.TeamDetails .field-value {
+    font-style: italic;
+}
+
+.TeamDetails .field{
+    margin: 10px 10px 0px 10px;
+}

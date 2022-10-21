@@ -1,0 +1,22 @@
+.MatchPage .MatchDetailsBig{
+
+    font-style: italic;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.MatchPage .MatchDetailsBig .main-details{
+
+    border-right-color: black;
+    border-right-width: 2px;
+    border-right-style: double;
+    margin-right: 10px;
+
+}
+
+.MatchPage .MatchDetailsBig .additional-details{
+
+    margin-left: 10px;
+
+}

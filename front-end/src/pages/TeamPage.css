@@ -1,0 +1,59 @@
+/* 
+
+---------------------------------------------------------------------------------------
+
+        << Team Name >>                                   << Wins/Total Matches >>
+
+---------------------------------------------------------------------------------------
+
+                            << Match Details Big Page >>
+
+---------------------------------------------------------------------------------------
+
+Match Details Small Page | Match Details Small Page | Match Details Small Page | More>
+
+---------------------------------------------------------------------------------------
+
+*/
+
+.TeamPage {
+
+    display: grid;
+    grid-template-rows: auto 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+
+}
+
+.TeamPage .tname-section{
+    grid-column: span 5;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.TeamPage .tname-section .tname{
+    grid-column: span 1;
+    justify-self: flex-start;
+    align-self: center;
+    font-size: 3Rem;
+}
+
+.TeamPage .tname-section .win-ratio-section{
+    grid-column: span 1;
+    
+    line-height: 20px;
+    justify-self: center;
+    text-align: center;
+}
+
+.TeamPage .big-details-section{
+    grid-column: span 5;
+}
+
+.TeamPage .more-section{
+    align-self: center;
+    font-style: italic;
+}

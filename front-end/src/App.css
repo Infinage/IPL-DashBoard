@@ -1,0 +1,16 @@
+.App {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.App .website-title {
+  font-size: 3.5Rem;
+}
+
+.game-won{
+  background-color: rgb(17, 216, 17);
+}
+
+.game-lost{
+  background-color: rgb(190, 7, 7);
+}

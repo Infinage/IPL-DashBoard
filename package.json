@@ -1,0 +1,22 @@
+{
+  "name": "ipl-dashboard",
+  "version": "1.0.0",
+  "description": "Node/React IPL Dashboard Application",
+  "scripts": {
+    "clean": "find . -name 'package-lock.json' -delete; rm -rf node_modules/*; rm -rf ./back-end/node_modules/*; rm -rf ./front-end/node_modules/*;",
+    "front:build": "npm run build -w react-frontend",
+
+    "front:dev": "npm run start -w react-frontend",
+    "back:dev": "npm run dev -w node-backend",
+
+    "start": "npm run start -w node-backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infinage/ipl-dashboard.git"
+  },
+  "author": "Naresh Jagadeesan",
+  "homepage": "https://github.com/Infinage/ipl-dashboard#readme",
+  
+  "workspaces": ["./back-end","./front-end"]
+}
