@@ -9,8 +9,8 @@ To run the application locally:
 ```
 >> git clone https://github.com/Infinage/ipl-dashboard.git
 >> cd ipl-dashboard
->> npm build
->> npm start
+>> npm run build
+>> npm run start
 ```
 
 ***
