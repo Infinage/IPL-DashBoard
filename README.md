@@ -1,3 +1,20 @@
+## IPL - Dashboard
+
+![ipl-dashboard](https://ipl-dashboard.herokuapp.com/static/img/icons/android-chrome-384x384.png)
+
+This App is Live on: https://ipl-dashboard.cyclic.app/
+
+To run the application locally:
+
+```
+>> git clone https://github.com/Infinage/ipl-dashboard.git
+>> cd ipl-dashboard
+>> npm build
+>> npm start
+```
+
+***
+
 * Two APIs (GET Method):
 
     - Team API: /team
@@ -37,30 +54,28 @@
     - matchWinner
     - matchLoser
 
-=================
-
-Phase 2: 
-5. Periodically (cron scheduler) scrap from website - save to an online / local DB instance
-
-================
+***
 
 Cricinfo - different conditions:
 
-// Check out how tie works - 392190: https://stats.espncricinfo.com/ci/engine/match/392190.html
-// Neutral Venue, Eliminator (Y) - 729315: https://stats.espncricinfo.com/ci/engine/match/729315.html
-// Eliminator (NA), Winner (NA) - 829763: https://stats.espncricinfo.com/ci/engine/match/829763.html
-// Method (DL) - 336022: https://stats.espncricinfo.com/ci/engine/match/336022.html
-// Result (Tie) - 419121: https://stats.espncricinfo.com/ci/engine/match/419121.html 
-// Result (NA) - 501265: https://stats.espncricinfo.com/ci/engine/match/501265.html
-// Normal - 336000: https://stats.espncricinfo.com/ci/engine/match/336000.html
+* Check out how tie works - 392190: https://stats.espncricinfo.com/ci/engine/match/392190.html
+* Neutral Venue, Eliminator (Y) - 729315: https://stats.espncricinfo.com/ci/engine/match/729315.html
+* Eliminator (NA), Winner (NA) - 829763: https://stats.espncricinfo.com/ci/engine/match/829763.html
+* Method (DL) - 336022: https://stats.espncricinfo.com/ci/engine/match/336022.html
+* Result (Tie) - 419121: https://stats.espncricinfo.com/ci/engine/match/419121.html 
+* Result (NA) - 501265: https://stats.espncricinfo.com/ci/engine/match/501265.html
+* Normal - 336000: https://stats.espncricinfo.com/ci/engine/match/336000.html
 
 https://stats.espncricinfo.com/ci/engine/match/1254116.html
 
 
-================
+***
 
-We could use Sqlite3 db - https://github.com/TryGhost/node-sqlite3/wiki/API
-Medium guide: https://medium.com/@codesprintpro/getting-started-sqlite3-with-nodejs-8ef387ad31c4
+Medium guide on getting started with Sqlite3 db: https://medium.com/@codesprintpro/getting-started-sqlite3-with-nodejs-8ef387ad31c4
+
+DB Script:
+
+```
 
 CREATE TABLE teams (
     team_name TEXT UNIQUE NOT NULL PRIMARY KEY,
@@ -88,11 +103,14 @@ CREATE TABLE matches (
     FOREIGN KEY(losingTeamName) REFERENCES teams(team_name) ON UPDATE CASCADE
 );
 
-	insert into MATCH (id, city, date, playerOfMatch, venue, firstInningsTeam, secondInningsTeam, tossWinner, tossDecision, matchResult, resultMargin, umpire1, umpire2, winningTeamName, losingTeamName) VALUES
-	('335989', '2008-04-23', 'Chennai Super Kings', 'Mumbai Indians', 'Chennai Super Kings', 'Mumbai Indians');
+insert into MATCH (id, city, date, playerOfMatch, venue, firstInningsTeam, secondInningsTeam, tossWinner, tossDecision, matchResult, resultMargin, umpire1, umpire2, winningTeamName, losingTeamName) VALUES
+('335989', '2008-04-23', 'Chennai Super Kings', 'Mumbai Indians', 'Chennai Super Kings', 'Mumbai Indians');
 
+```
 
-  /* 
+Sample Object: 
+
+```
   id: '335982',
   city: 'Bangalore',
   date: '2008-04-18',
@@ -110,9 +128,9 @@ CREATE TABLE matches (
   method: 'NA',
   umpire1: 'Asad Rauf',
   umpire2: 'RE Koertzen'
-  */
+```
 
-===================
+***
 
 To allow interaction between front end and backend, just add cors() middleware. 
 For REACT_ROOT_API use http://localhost:5000 instead of localhost:5000
